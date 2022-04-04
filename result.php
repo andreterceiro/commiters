@@ -25,4 +25,9 @@ arsort($output);
 
 $viewVars['output'] = $output;
 
+file_put_contents(
+    'commiters.txt',
+    serialize($output)
+); 
+
 require "views/result.php";
