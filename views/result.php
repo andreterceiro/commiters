@@ -29,6 +29,8 @@
             </tbody>
         </table>
         <br />
+        <img src="image-commiters.php" />
+        <br />
         <input type="button" id="voltar" value="Voltar" />
         <script>
             function listenerClick() {
