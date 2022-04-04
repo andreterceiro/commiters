@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e3c641b9c0a137d3dbbfc432366da15f",
+    "packages": [
+        {
+            "name": "andreterceiro/minigraficoimagem",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/andreterceiro/Minigr-fico-imagem.git",
+                "reference": "4abe49ff50ec0acdae728b7d82cd893d92802c93"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/andreterceiro/Minigr-fico-imagem/zipball/4abe49ff50ec0acdae728b7d82cd893d92802c93",
+                "reference": "4abe49ff50ec0acdae728b7d82cd893d92802c93",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Uma pequena biblioteca para geração de gráficos",
+            "support": {
+                "issues": "https://github.com/andreterceiro/Minigr-fico-imagem/issues",
+                "source": "https://github.com/andreterceiro/Minigr-fico-imagem/tree/1.0.0"
+            },
+            "time": "2020-05-14T03:37:28+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

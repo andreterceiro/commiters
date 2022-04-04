@@ -1,0 +1,14 @@
+{
+    "name": "andre.paula/commiters",
+    "description": "Get the commiter's name and the number of commits based on the 'git log'",
+    "type": "project",
+    "require": {
+        "andreterceiro/minigraficoimagem": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nn"
+        }
+    ]
+}
