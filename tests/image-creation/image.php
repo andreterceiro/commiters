@@ -1,8 +1,8 @@
 <?php
-    //use andreterceiro\minigraficoimagem\MiniGraficoImagem;
+    // use andreterceiro\minigraficoimagem\MiniGraficoImagem;
     error_reporting(0);
-	require_once("vendor/autoload.php");
-	require_once("./vendor/andreterceiro/minigraficoimagem/MiniGraficoImagem.php");
+	// require_once("vendor/autoload.php");
+	require_once("../../vendor/andreterceiro/minigraficoimagem/MiniGraficoImagem.php");
 	$grafico = new MiniGraficoImagem;
 	$grafico->setarLinhaReferencia(5);
 	$grafico->cadastrar(1,"Linux",255,0,0);
